@@ -1,0 +1,1 @@
+MSG.catKodi = 'Kodi (XBMC)';

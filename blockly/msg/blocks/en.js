@@ -1,0 +1,11 @@
+Blockly.Msg.KODI_SERVER_ADDR = 'Kodi server, address: ';
+Blockly.Msg.KODI_CURRENT_PLAYED_ITEM = 'current played item';
+Blockly.Msg.KODI_ADD_ITEM_OR_LIST = 'add item or list';
+Blockly.Msg.KODI_TO_PLAYLIST = 'to playlist';
+Blockly.Msg.KODI_CLEAR_PLAYLIST = 'clear playlist';
+Blockly.Msg.KODI_PLAYLIST = 'playlist';
+Blockly.Msg.KODI_OPEN = 'open';
+Blockly.Msg.KODI_STOP = 'stop';
+Blockly.Msg.KODI_PAUSE = 'pause/resume';
+Blockly.Msg.KODI_NEXT = 'next';
+Blockly.Msg.KODI_PREVIOUS = 'previous';

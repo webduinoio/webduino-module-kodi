@@ -1,0 +1,11 @@
+Blockly.Msg.KODI_SERVER_ADDR = 'Kodi 伺服器位址：';
+Blockly.Msg.KODI_CURRENT_PLAYED_ITEM = '目前播放项目';
+Blockly.Msg.KODI_ADD_ITEM_OR_LIST = '新增项目或清单';
+Blockly.Msg.KODI_TO_PLAYLIST = '到播放清单';
+Blockly.Msg.KODI_CLEAR_PLAYLIST = '清除播放清单';
+Blockly.Msg.KODI_PLAYLIST = '播放清单';
+Blockly.Msg.KODI_OPEN = '播放';
+Blockly.Msg.KODI_STOP = '停止';
+Blockly.Msg.KODI_PAUSE = '暂停/返回';
+Blockly.Msg.KODI_NEXT = '下一首';
+Blockly.Msg.KODI_PREVIOUS = '上一首';

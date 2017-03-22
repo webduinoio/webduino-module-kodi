@@ -1,0 +1,12 @@
+<category id="catKodi">
+  <block type="variables_set">
+    <field name="VAR">kodi</field>
+    <value name="VALUE">
+      <block type="kodi_new"></block>
+    </value>
+  </block>
+  <block type="kodi_playlist_add"></block>
+  <block type="kodi_playlist_clear"></block>
+  <block type="kodi_action"></block>
+  <block type="kodi_current_played_item"></block>
+</category>

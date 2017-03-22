@@ -1,0 +1,23 @@
+{
+  "types": [
+    "kodi_new",
+    "kodi_playlist_add",
+    "kodi_playlist_clear",
+    "kodi_action",
+    "kodi_current_played_item"
+  ],
+  "category": "catPlus",
+  "dependencies": [
+    "lib/JSON-RPC-Browser/js/vendor/jquery.json-2.4.js",
+    "lib/JSON-RPC-Browser/js/vendor/jquery.jsonrpcclient.js",
+    "lib/JSON-RPC-Browser/js/jsonrpc.connection.js",
+    "Kodi.js"
+  ],
+  "scripts": [
+    "blockly/blocks.js",
+    "blockly/javascript.js"
+  ],
+  "msg": "blockly/msg",
+  "blocksMsg": "blockly/msg/blocks",
+  "toolbox": "blockly/toolbox.xml"
+}
